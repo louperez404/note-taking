@@ -17,6 +17,19 @@ You can access the Swagger UI for API documentation using the following URL:
 
 [http://localhost:8080/swagger-ui/index.html#/](http://localhost:8080/swagger-ui/index.html#/)
 
+## Running the Project
+
+To run the project, you need the following applications installed:
+
+- Java Development Kit (JDK) 21 or latest
+- Gradle (for dependency management)
+
+Follow these steps to run the project:
+
+1. Clone the repository to your local machine: git clone https://github.com/louperez404/note-taking.git
+2. Navigate to the project directory
+3. Build and run the application using Gradle: ./gradlew bootRun
+
 ## Features
 
 - Create a new note
